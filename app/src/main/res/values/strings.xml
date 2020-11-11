@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalcialHospital</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="edittext_investment">Who is this investment for? *</string>
+    <string name="editText_date">Date of purchase</string>
+    <string name="editText_units">Number of units</string>
+    <string name="editText_price">Purchase price</string>
+    <string name="btn_addmore">Add more</string>
+</resources>
